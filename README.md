@@ -171,7 +171,6 @@ Relação 1:N entre `produtos` e `movimentacoes`. Detalhes e diagrama em `docs/d
 | Diogo Ruan Elias |
 | Henrique Bezerra Amaral |
 | Lucas Pinto Bezerra |
-| Scott Bryan Alves dos Reis |
 | Thomaz Victor de Oliveira |
 
 Todos os integrantes devem ser adicionados como colaboradores do repositório e fazer commits próprios.
