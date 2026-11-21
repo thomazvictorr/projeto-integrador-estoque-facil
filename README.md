@@ -76,8 +76,8 @@ Abra **dois terminais**. Os comandos funcionam em Windows (PowerShell), macOS e 
 **1. Clonar e instalar as dependências (só na primeira vez)**
 
 ```bash
-git clone <URL-DO-REPOSITORIO>
-cd estoque-facil
+git clone https://github.com/thomazvictorr/projeto-integrador-estoque-facil.git
+cd projeto-integrador-estoque-facil
 
 cd backend
 npm install
