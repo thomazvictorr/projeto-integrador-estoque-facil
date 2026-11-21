@@ -1,0 +1,14 @@
+{
+  "name": "estoque-facil",
+  "version": "1.0.0",
+  "private": true,
+  "description": "PoC de gestão de estoque para pequenos comércios (Projeto Integrador, Senac EAD)",
+  "scripts": {
+    "install:all": "cd backend && npm install && cd ../frontend && npm install",
+    "seed": "cd backend && npm run seed",
+    "start:backend": "cd backend && npm start",
+    "start:frontend": "cd frontend && npm run dev",
+    "test": "cd backend && npm test"
+  },
+  "license": "MIT"
+}
