@@ -39,7 +39,7 @@ A justificativa da escolha da PoC está em [`docs/definicao-poc.md`](docs/defini
 ## Estrutura de pastas
 
 ```
-estoque-facil/
+projeto-integrador-estoque-facil/
 ├── backend/            API REST (Express + SQLite)
 │   ├── src/
 │   │   ├── app.js      rotas e regras de negócio
