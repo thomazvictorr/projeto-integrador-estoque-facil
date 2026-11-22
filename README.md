@@ -53,8 +53,14 @@ projeto-integrador-estoque-facil/
 │       ├── api.js
 │       ├── components/
 │       └── styles.css
-├── docs/
-│   └── definicao-poc.md
+├── docs/               documentação da PoC
+│   ├── definicao-poc.md
+│   ├── tela-principal.png
+│   └── tela-celular.png
+├── video/
+│   └── demonstracao-estoque-facil.mp4
+├── .gitignore
+├── package.json
 └── README.md
 ```
 
@@ -177,7 +183,7 @@ Todos os integrantes devem ser adicionados como colaboradores do repositório e 
 
 ## Vídeo de demonstração
 
-Link do vídeo (máx. 1 minuto): _preencher com o link privado do YouTube ou o caminho do MP4 no repositório_.
+[Assistir ao vídeo de demonstração](video/demonstracao-estoque-facil.mp4)
 
 ## Próximas etapas (fora do escopo da PoC)
 
