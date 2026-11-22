@@ -183,7 +183,7 @@ Todos os integrantes devem ser adicionados como colaboradores do repositório e 
 
 ## Vídeo de demonstração
 
-https://github.com/user-attachments/assets/xxxxxxxx   <- (linha gerada pelo GitHub)
+https://github.com/user-attachments/assets/1f9e0265-1e91-43b3-8abc-85504d0c9151
 
 Caso o player não carregue, o vídeo também está em [`video/demonstracao-estoque-facil.mp4`](https://github.com/thomazvictorr/projeto-integrador-estoque-facil/raw/master/video/demonstracao-estoque-facil.mp4).
 
